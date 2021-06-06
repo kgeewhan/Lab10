@@ -156,3 +156,7 @@ body.single-entry main {
   width: 100%;
 }
 /* Feature Flag End - Double Column */
+
+.newbackground {
+  background-color: rgb(223, 181, 45);
+}
